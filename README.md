@@ -22,6 +22,6 @@ As this was a **anomaly detection** competition **data imbalance** was prevelant
          
 In this project I learned different methods how can we should approach an imbalanced data set and brushed up my **Data Analysis** and **model development** skills.
 
-<a href='https://www.kaggle.com/code/abhishek123maurya/2-anomaly-detection-features-csv', target='_blank'>Notebook</a> on Kaggle.
+[Notebook](https://www.kaggle.com/code/abhishek123maurya/2-anomaly-detection-features-csv) on Kaggle.
 
 Thank You for Reading This.
